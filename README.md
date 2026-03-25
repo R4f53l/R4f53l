@@ -11,9 +11,9 @@
 
 - 🏆 Focused on ICPC-style competitive programming
 - 📚 Strong background in Data Structures and Graph Algorithms
-- 🤖 Currently studying Machine Learning and Deep Learning
+- 🤖 Currently studying Deep Learning and Backend with FastAPI
 - 💼 Open to freelance opportunities and real-world projects
-- 🎯 Goal: Become a high-level Software/AI Engineer
+- 🎯 Goal: Become a high-level Software Engineer
 
 ---
 
@@ -24,11 +24,11 @@
 - C++
 - Python
 - SQL
-- Java (basic)
+- Java
 
 ### Core Knowledge
 - Data Structures
-- Graph Algorithms (DFS, BFS, Dijkstra, Kruskal)
+- Graph Algorithms 
 - Dynamic Programming
 - Problem Solving
 - Database Design
@@ -39,7 +39,7 @@
 
 - Competitive Programming (ICPC preparation)
 - Advanced Algorithms
-- Machine Learning & Neural Networks
+- Machine Learning, Neural Networks and Backend development
 - Building real-world portfolio projects
 
 ---
@@ -47,7 +47,7 @@
 ## 🚀 Highlight Projects
 
 🔹 Competitive Programming Repository  
-🔹 Soccer Championship Management System  
+🔹 Soccer Championship Management System (in progress) 
 🔹 Power BI Extension Project  
 🔹 Machine Learning from Scratch (in progress)
 
