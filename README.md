@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Rafael Emanuel
 
-🎓 Computer Engineering Student  
+🎓 Computer Engineering Student and Competitive Programmer 
 🏫 Federal University of Vale do São Francisco (UNIVASF)  
 💻 Passionate about Algorithms, Data Structures and Competitive Programming  
-🚀 Future AI & Deep Learning Engineer  
+🚀 Future Software Engineer 
 
 ---
 
 ## 🧠 About Me
 
-- 🏆 Focused on ICPC-style competitive programming
+- 🏆 Focused on ICPC-style competitive programming using C++.
 - 📚 Strong background in Data Structures and Graph Algorithms
 - 🤖 Currently studying Deep Learning and Backend with FastAPI
 - 💼 Open to freelance opportunities and real-world projects
@@ -20,8 +20,8 @@
 ## 🛠 Tech Stack
 
 ### Programming Languages
-- C
 - C++
+- C
 - Python
 - SQL
 - Java
@@ -46,10 +46,8 @@
 
 ## 🚀 Highlight Projects
 
-🔹 Competitive Programming Repository  
+🔹 Competitive Programming Repository in C++.
 🔹 Soccer Championship Management System (in progress) 
-🔹 Power BI Extension Project  
-🔹 Machine Learning from Scratch (in progress)
 
 ---
 
