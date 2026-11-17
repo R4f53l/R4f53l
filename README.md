@@ -9,9 +9,10 @@
 
 ## 🧠 About Me
 
-- 🏆 Focused on ICPC-style competitive programming using C++.
-- 📚 Strong background in Data Structures and Graph Algorithms
-- 🤖 Currently studying Deep Learning and Backend with FastAPI
+- 🏆 Focused on ICPC-style competitive programming with C++.
+- 📚 Strong knowledge in C++, C, Python and Java.
+- 📚 Strong background in Data Structures, Graph Algorithms, Dynamic Programming and others
+- 🤖 Currently studying SpringBoot
 - 💼 Open to freelance opportunities and real-world projects
 - 🎯 Goal: Become a high-level Software Engineer
 
@@ -22,9 +23,9 @@
 ### Programming Languages
 - C++
 - C
+- Java
 - Python
 - SQL
-- Java
 
 ### Core Knowledge
 - Data Structures
@@ -48,6 +49,10 @@
 
 🔹 Competitive Programming Repository in C++.
 🔹 Soccer Championship Management System (in progress) 
+🔹 Inventory Control System using FastAPI for the backend and html, css and javascript for the frontend.
+🔹 System for Veterinary clinics using Java
+🔹 System for Librarys using Python
+
 
 ---
 
